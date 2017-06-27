@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="robot">
+        <item>Hyejeong</item>
+        <item>Yeonhoo</item>
+        <item>Soonmin</item>
+        <item>Byeongho</item>
+        <item>Hyemi</item>
+    </string-array>
+</resources>
