@@ -26,6 +26,7 @@
         <activity android:name=".Feed"></activity>
         <activity android:name=".Addtime"></activity>
         <activity android:name=".Signup"></activity>
+        <activity android:name=".Move"></activity>
     </application>
 
 </manifest>
